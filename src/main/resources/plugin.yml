@@ -1,0 +1,8 @@
+name: CommandHandlerTest
+version: ${project.version}
+main: me.nikke.CommandHandlerTest
+api-version: 1.17
+authors: [ N1kkee ]
+commands:
+  test:
+    description: Testikomento
